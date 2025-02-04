@@ -19,6 +19,36 @@ namespace Datos.Datos.Pruebas
 
         private static readonly ILog Log = LogManager.GetLogger(typeof(DatosPrueba));
 
+        #region Error
+        public void dispose()
+        {
+            if (Lo_ErrorPr != null)
+            {
+                Lo_ErrorPr = null;
+            }
+            GC.SuppressFinalize(this);
+        }
+
+        ~DatosPrueba()
+        {
+            if (Lo_ErrorPr != null)
+            {
+                Lo_ErrorPr = null;
+            }
+        }
+
+        public DatosPrueba()
+        {
+            if (Lo_ErrorPr == null)
+                Lo_ErrorPr = new CsManejoErroresPr();
+
+            Lo_ErrorPr.CodigoRetorno = 0;
+            Lo_ErrorPr.DescMensUser = "";
+            Lo_ErrorPr.DescRetorno = "";
+
+        }
+        #endregion
+
         public PruebaModelo get(string TipoBanca, decimal monto)
         {
             PruebaModelo resul = new PruebaModelo();
