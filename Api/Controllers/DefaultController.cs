@@ -7,23 +7,23 @@ using System.Web.Http;
 using Api.Services;
 using log4net;
 using Modelos.Entidades;
-using static System.Net.Mime.MediaTypeNames;
 
 namespace Api.Controllers
 {
-    public class ControladorPrueba : ApiController
+    [RoutePrefix("SimuladorAhorro")]
+    public class DefaultController : ApiController
     {
         private readonly ServicioPrueba _pruebaServicio;
 
         public ILog Log { get; set; }
-        public ControladorPrueba(ServicioPrueba pruebaServicio)
+        public DefaultController(ServicioPrueba pruebaServicio)
         {
             _pruebaServicio = pruebaServicio;
         }
 
         [HttpPost]
         [Route("get")]
-        public IHttpActionResult get(string TipoBanca, decimal monto)
+        public IHttpActionResult Get(string TipoBanca, decimal monto)
         {
             PruebaModelo resul = new PruebaModelo();
             try
@@ -37,5 +37,6 @@ namespace Api.Controllers
 
             return Ok(resul);
         }
+
     }
 }
