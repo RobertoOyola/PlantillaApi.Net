@@ -19,7 +19,6 @@ C:\Royola\Plantillas\PlantillaApi.Net\LogicaNegocio\bin\Debug\Modelos.dll
 C:\Royola\Plantillas\PlantillaApi.Net\LogicaNegocio\bin\Debug\IBM.Data.DB2.iSeries.dll
 C:\Royola\Plantillas\PlantillaApi.Net\LogicaNegocio\bin\Debug\Datos.pdb
 C:\Royola\Plantillas\PlantillaApi.Net\LogicaNegocio\bin\Debug\Modelos.pdb
-C:\Royola\Plantillas\PlantillaApi.Net\LogicaNegocio\bin\Debug\log4net.pdb
 C:\Royola\Plantillas\PlantillaApi.Net\LogicaNegocio\bin\Debug\log4net.xml
 C:\Royola\Plantillas\PlantillaApi.Net\LogicaNegocio\obj\Debug\LogicaNe.53575492.Up2Date
 C:\Royola\Plantillas\PlantillaApi.Net\LogicaNegocio\obj\Debug\LogicaNegocio.dll

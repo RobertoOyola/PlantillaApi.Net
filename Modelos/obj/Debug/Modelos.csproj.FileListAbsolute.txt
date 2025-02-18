@@ -11,7 +11,6 @@ C:\Royola\Pruebas\apis\PlantillaApi.Net\Modelos\obj\Debug\Modelos.pdb
 C:\Royola\Plantillas\PlantillaApi.Net\Modelos\bin\Debug\Modelos.dll
 C:\Royola\Plantillas\PlantillaApi.Net\Modelos\bin\Debug\Modelos.pdb
 C:\Royola\Plantillas\PlantillaApi.Net\Modelos\bin\Debug\log4net.dll
-C:\Royola\Plantillas\PlantillaApi.Net\Modelos\bin\Debug\log4net.pdb
 C:\Royola\Plantillas\PlantillaApi.Net\Modelos\bin\Debug\log4net.xml
 C:\Royola\Plantillas\PlantillaApi.Net\Modelos\obj\Debug\Modelos.csproj.AssemblyReference.cache
 C:\Royola\Plantillas\PlantillaApi.Net\Modelos\obj\Debug\Modelos.csproj.CoreCompileInputs.cache

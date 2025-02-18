@@ -203,7 +203,6 @@ C:\Royola\Plantillas\PlantillaApi.Net\Api\bin\Modelos.pdb
 C:\Royola\Plantillas\PlantillaApi.Net\Api\bin\AutoMapper.pdb
 C:\Royola\Plantillas\PlantillaApi.Net\Api\bin\AutoMapper.xml
 C:\Royola\Plantillas\PlantillaApi.Net\Api\bin\AutoMapper.Net4.pdb
-C:\Royola\Plantillas\PlantillaApi.Net\Api\bin\log4net.pdb
 C:\Royola\Plantillas\PlantillaApi.Net\Api\bin\log4net.xml
 C:\Royola\Plantillas\PlantillaApi.Net\Api\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Royola\Plantillas\PlantillaApi.Net\Api\bin\System.Threading.Tasks.Extensions.xml
@@ -237,3 +236,4 @@ C:\Royola\Plantillas\PlantillaApi.Net\Api\bin\es\System.Web.WebPages.Razor.resou
 C:\Royola\Plantillas\PlantillaApi.Net\Api\obj\Debug\Api.csproj.Up2Date
 C:\Royola\Plantillas\PlantillaApi.Net\Api\obj\Debug\Api.dll
 C:\Royola\Plantillas\PlantillaApi.Net\Api\obj\Debug\Api.pdb
+C:\Royola\Plantillas\PlantillaApi.Net\Api\bin\log4net.config

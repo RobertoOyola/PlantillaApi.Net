@@ -27,7 +27,6 @@ C:\Royola\Plantillas\PlantillaApi.Net\Datos\bin\Debug\Modelos.pdb
 C:\Royola\Plantillas\PlantillaApi.Net\Datos\bin\Debug\AutoMapper.pdb
 C:\Royola\Plantillas\PlantillaApi.Net\Datos\bin\Debug\AutoMapper.xml
 C:\Royola\Plantillas\PlantillaApi.Net\Datos\bin\Debug\AutoMapper.Net4.pdb
-C:\Royola\Plantillas\PlantillaApi.Net\Datos\bin\Debug\log4net.pdb
 C:\Royola\Plantillas\PlantillaApi.Net\Datos\bin\Debug\log4net.xml
 C:\Royola\Plantillas\PlantillaApi.Net\Datos\obj\Debug\Datos.csproj.Up2Date
 C:\Royola\Plantillas\PlantillaApi.Net\Datos\obj\Debug\Datos.dll

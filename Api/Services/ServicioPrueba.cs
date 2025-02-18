@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
+using Api.Controllers;
 using Datos.Datos.Pruebas;
 using log4net;
 using LogicaNegocio.Repositorios.Prueba;
@@ -13,7 +14,7 @@ namespace Api.Services
     {
         private readonly IRepositorioPrueba _pruebaRepositorio;
 
-        public ILog Log { get; set; }
+        private static readonly ILog Log = LogManager.GetLogger(typeof(ServicioPrueba));
 
         public ServicioPrueba(IRepositorioPrueba pruebaRepositorio)
         {

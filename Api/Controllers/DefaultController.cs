@@ -11,11 +11,13 @@ using Modelos.Entidades;
 namespace Api.Controllers
 {
     [RoutePrefix("SimuladorAhorro")]
+    [RemoveMvcVersionHeaderFilter]
     public class DefaultController : ApiController
     {
         private readonly ServicioPrueba _pruebaServicio;
 
-        public ILog Log { get; set; }
+        private static readonly ILog Log = LogManager.GetLogger(typeof(DefaultController));
+
         public DefaultController(ServicioPrueba pruebaServicio)
         {
             _pruebaServicio = pruebaServicio;

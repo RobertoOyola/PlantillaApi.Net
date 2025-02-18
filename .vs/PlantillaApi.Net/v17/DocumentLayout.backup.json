@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E88826D6-9C83-4CD1-837A-8F3FC2A34D74}|Datos\\Datos.csproj|C:\\Royola\\Plantillas\\PlantillaApi.Net\\datos\\datos\\pruebas\\datosprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E88826D6-9C83-4CD1-837A-8F3FC2A34D74}|Datos\\Datos.csproj|c:\\royola\\plantillas\\plantillaapi.net\\datos\\datos\\pruebas\\datosprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E88826D6-9C83-4CD1-837A-8F3FC2A34D74}|Datos\\Datos.csproj|solutionrelative:datos\\datos\\pruebas\\datosprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2186832D-8634-4C61-ACDC-857A919C5D74}|Api\\Api.csproj|c:\\royola\\plantillas\\plantillaapi.net\\api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2186832D-8634-4C61-ACDC-857A919C5D74}|Api\\Api.csproj|solutionrelative:api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5F0E8772-C9AD-486E-9D45-EFB6C972B1BE}|LogicaNegocio\\LogicaNegocio.csproj|C:\\Royola\\Plantillas\\PlantillaApi.Net\\logicanegocio\\repositorios\\pruebas\\repositorioprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5F0E8772-C9AD-486E-9D45-EFB6C972B1BE}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\repositorios\\pruebas\\repositorioprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2186832D-8634-4C61-ACDC-857A919C5D74}|Api\\Api.csproj|C:\\Royola\\Plantillas\\PlantillaApi.Net\\api\\services\\servicioprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2186832D-8634-4C61-ACDC-857A919C5D74}|Api\\Api.csproj|solutionrelative:api\\services\\servicioprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2186832D-8634-4C61-ACDC-857A919C5D74}|Api\\Api.csproj|c:\\royola\\plantillas\\plantillaapi.net\\api\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2186832D-8634-4C61-ACDC-857A919C5D74}|Api\\Api.csproj|solutionrelative:api\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2186832D-8634-4C61-ACDC-857A919C5D74}|Api\\Api.csproj|c:\\royola\\plantillas\\plantillaapi.net\\api\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2186832D-8634-4C61-ACDC-857A919C5D74}|Api\\Api.csproj|solutionrelative:api\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2186832D-8634-4C61-ACDC-857A919C5D74}|Api\\Api.csproj|C:\\Royola\\Plantillas\\PlantillaApi.Net\\api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2186832D-8634-4C61-ACDC-857A919C5D74}|Api\\Api.csproj|solutionrelative:api\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2186832D-8634-4C61-ACDC-857A919C5D74}|Api\\Api.csproj|c:\\royola\\plantillas\\plantillaapi.net\\api\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2186832D-8634-4C61-ACDC-857A919C5D74}|Api\\Api.csproj|solutionrelative:api\\log4net.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0E8772-C9AD-486E-9D45-EFB6C972B1BE}|LogicaNegocio\\LogicaNegocio.csproj|C:\\Royola\\Plantillas\\PlantillaApi.Net\\logicanegocio\\repositorios\\pruebas\\repositorioprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0E8772-C9AD-486E-9D45-EFB6C972B1BE}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\repositorios\\pruebas\\repositorioprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{82DDC133-4628-40AD-9C6F-57FFE5F3F89C}|Modelos\\Modelos.csproj|C:\\Royola\\Plantillas\\PlantillaApi.Net\\modelos\\entidades\\prueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,20 +58,46 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Api\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Api\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Api\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Api\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:49:54.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Api\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Api\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "Api\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T22:23:55.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Global.asax.cs",
               "DocumentMoniker": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Api\\Global.asax.cs",
               "RelativeDocumentMoniker": "Api\\Global.asax.cs",
               "ToolTip": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Api\\Global.asax.cs",
               "RelativeToolTip": "Api\\Global.asax.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAACAAAABqAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wBgAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T14:39:24.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "RepositorioPrueba.cs",
               "DocumentMoniker": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\LogicaNegocio\\Repositorios\\Pruebas\\RepositorioPrueba.cs",
               "RelativeDocumentMoniker": "LogicaNegocio\\Repositorios\\Pruebas\\RepositorioPrueba.cs",
@@ -67,43 +105,21 @@
               "RelativeToolTip": "LogicaNegocio\\Repositorios\\Pruebas\\RepositorioPrueba.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAmwDMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:26:46.745Z"
+              "WhenOpened": "2025-02-03T21:26:46.745Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IRepositorioPrueba.cs",
-              "DocumentMoniker": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\LogicaNegocio\\Repositorios\\Pruebas\\IRepositorioPrueba.cs",
-              "RelativeDocumentMoniker": "LogicaNegocio\\Repositorios\\Pruebas\\IRepositorioPrueba.cs",
-              "ToolTip": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\LogicaNegocio\\Repositorios\\Pruebas\\IRepositorioPrueba.cs",
-              "RelativeToolTip": "LogicaNegocio\\Repositorios\\Pruebas\\IRepositorioPrueba.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ServicioPrueba.cs",
+              "DocumentMoniker": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Api\\Services\\ServicioPrueba.cs",
+              "RelativeDocumentMoniker": "Api\\Services\\ServicioPrueba.cs",
+              "ToolTip": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Api\\Services\\ServicioPrueba.cs",
+              "RelativeToolTip": "Api\\Services\\ServicioPrueba.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAIwA4AAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:26:04.68Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Prueba.cs",
-              "DocumentMoniker": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Modelos\\Entidades\\Prueba.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\Prueba.cs",
-              "ToolTip": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Modelos\\Entidades\\Prueba.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\Prueba.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:22:43.92Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CsManejoErroresPr.cs",
-              "DocumentMoniker": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Modelos\\Entidades\\CsManejoErroresPr.cs",
-              "RelativeDocumentMoniker": "Modelos\\Entidades\\CsManejoErroresPr.cs",
-              "ToolTip": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Modelos\\Entidades\\CsManejoErroresPr.cs",
-              "RelativeToolTip": "Modelos\\Entidades\\CsManejoErroresPr.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:16:49.155Z"
+              "WhenOpened": "2025-02-03T21:36:01.745Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -113,26 +129,66 @@
               "RelativeDocumentMoniker": "Datos\\Datos\\Pruebas\\DatosPrueba.cs",
               "ToolTip": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Datos\\Datos\\Pruebas\\DatosPrueba.cs",
               "RelativeToolTip": "Datos\\Datos\\Pruebas\\DatosPrueba.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAYwCQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T21:15:22.97Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ServicioPrueba.cs",
-              "DocumentMoniker": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Api\\Services\\ServicioPrueba.cs",
-              "RelativeDocumentMoniker": "Api\\Services\\ServicioPrueba.cs",
-              "ToolTip": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Api\\Services\\ServicioPrueba.cs",
-              "RelativeToolTip": "Api\\Services\\ServicioPrueba.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAIwBcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:36:01.745Z"
+              "DocumentIndex": 5,
+              "Title": "log4net.config",
+              "DocumentMoniker": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Api\\log4net.config",
+              "RelativeDocumentMoniker": "Api\\log4net.config",
+              "ToolTip": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Api\\log4net.config",
+              "RelativeToolTip": "Api\\log4net.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-18T13:50:22.126Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
+              "Title": "IRepositorioPrueba.cs",
+              "DocumentMoniker": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\LogicaNegocio\\Repositorios\\Pruebas\\IRepositorioPrueba.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Repositorios\\Pruebas\\IRepositorioPrueba.cs",
+              "ToolTip": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\LogicaNegocio\\Repositorios\\Pruebas\\IRepositorioPrueba.cs",
+              "RelativeToolTip": "LogicaNegocio\\Repositorios\\Pruebas\\IRepositorioPrueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:26:04.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Prueba.cs",
+              "DocumentMoniker": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Modelos\\Entidades\\Prueba.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\Prueba.cs",
+              "ToolTip": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Modelos\\Entidades\\Prueba.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\Prueba.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:22:43.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CsManejoErroresPr.cs",
+              "DocumentMoniker": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Modelos\\Entidades\\CsManejoErroresPr.cs",
+              "RelativeDocumentMoniker": "Modelos\\Entidades\\CsManejoErroresPr.cs",
+              "ToolTip": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Modelos\\Entidades\\CsManejoErroresPr.cs",
+              "RelativeToolTip": "Modelos\\Entidades\\CsManejoErroresPr.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T21:16:49.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "IDatosPrueba.cs",
               "DocumentMoniker": "C:\\Royola\\Plantillas\\PlantillaApi.Net\\Datos\\Datos\\Pruebas\\IDatosPrueba.cs",
               "RelativeDocumentMoniker": "Datos\\Datos\\Pruebas\\IDatosPrueba.cs",
@@ -140,7 +196,8 @@
               "RelativeToolTip": "Datos\\Datos\\Pruebas\\IDatosPrueba.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T21:15:23.593Z"
+              "WhenOpened": "2025-02-03T21:15:23.593Z",
+              "EditorCaption": ""
             }
           ]
         }

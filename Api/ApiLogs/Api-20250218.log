@@ -1,0 +1,7 @@
+2025-02-18 08:57:56,995 [7] INFO  Api.Controllers.DefaultController - BE
+2025-02-18 08:57:57,008 [7] INFO  Datos.Datos.Pruebas.DatosPrueba - get ==> Inicio
+2025-02-18 08:57:57,225 [7] ERROR Api.Controllers.DefaultController - get==> Error:La propiedad ConnectionString no es válida. Trace:    en IBM.Data.DB2.iSeries.iDB2Connection..ctor(String connectionString)
+   en Datos.Datos.Pruebas.DatosPrueba.get(String TipoBanca, Decimal monto) en C:\Royola\Plantillas\PlantillaApi.Net\Datos\Datos\Pruebas\DatosPrueba.cs:línea 61
+   en LogicaNegocio.Repositorios.Prueba.RepositorioPrueba.get(String TipoBanca, Decimal monto) en C:\Royola\Plantillas\PlantillaApi.Net\LogicaNegocio\Repositorios\Pruebas\RepositorioPrueba.cs:línea 28
+   en Api.Services.ServicioPrueba.get(String TipoBanca, Decimal monto) en C:\Royola\Plantillas\PlantillaApi.Net\Api\Services\ServicioPrueba.cs:línea 26
+   en Api.Controllers.DefaultController.Get(String TipoBanca, Decimal monto) en C:\Royola\Plantillas\PlantillaApi.Net\Api\Controllers\DefaultController.cs:línea 34

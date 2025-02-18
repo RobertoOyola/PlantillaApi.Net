@@ -11,6 +11,7 @@ using Datos.Datos.Pruebas;
 using LogicaNegocio.Repositorios.Prueba;
 using Unity.AspNet.WebApi;
 using Unity;
+using log4net.Config;
 
 namespace Api
 {
@@ -23,6 +24,7 @@ namespace Api
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
+            XmlConfigurator.Configure(new System.IO.FileInfo("log4net.config"));
 
             var container = new UnityContainer();
             container.RegisterType<IDatosPrueba, DatosPrueba>();
@@ -31,6 +33,18 @@ namespace Api
 
 
             GlobalConfiguration.Configuration.DependencyResolver = new UnityDependencyResolver(container);
+
+            // Registra el filtro de acción para eliminar el encabezado de versión de ASP.NET MVC
+            GlobalFilters.Filters.Add(new RemoveMvcVersionHeaderFilter());
+        }
+    }
+
+    public class RemoveMvcVersionHeaderFilter : ActionFilterAttribute
+    {
+        public override void OnActionExecuted(ActionExecutedContext filterContext)
+        {
+            // Eliminar el encabezado de versión de ASP.NET MVC
+            filterContext.HttpContext.Response.Headers.Remove("X-AspNetMvc-Version");
         }
     }
 }
